@@ -8,17 +8,11 @@ O objetivo deste repositório é registrar e compartilhar as soluções desenvol
 
 ## 🧠 Conteúdo
 
-As soluções estão organizadas de acordo com os problemas disponíveis na plataforma Beecrowd. Cada pasta ou arquivo segue uma estrutura que identifica claramente o número e o nome do exercício, além da linguagem utilizada na resolução (C, C++, Python, etc).
+As soluções estão organizadas de acordo com os problemas disponíveis na plataforma Beecrowd. Cada pasta representa um assunto e os arquivos possuem o número da tarefa no nome. A linguagem utilizada na resolução de todos os exercícios foi C.
 
 ## 👨‍💻 Autor
 
 **Anderson Rodrigues**  
 Email: [ander.rodri.jpe@gmail.com](mailto:ander.rodri.jpe@gmail.com)
 
-## 🤝 Contribuição
 
-Este repositório é de uso pessoal, mas sugestões e feedbacks são sempre bem-vindos!
-
----
-
-> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
