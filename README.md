@@ -4,7 +4,7 @@ Este repositório contém as resoluções de atividades propostas pela plataform
 
 ## 📌 Objetivo
 
-O objetivo deste repositório é registrar e compartilhar as soluções desenvolvidas, facilitando a organização dos exercícios resolvidos e servindo como referência para estudos futuros.
+O objetivo deste repositório é registrar e compartilhar as soluções desenvolvidas, facilitando a organização dos exercícios resolvidos para o TPE 2 da disciplina de algoritmo e também servindo como referência para estudos futuros.
 
 ## 🧠 Conteúdo
 
